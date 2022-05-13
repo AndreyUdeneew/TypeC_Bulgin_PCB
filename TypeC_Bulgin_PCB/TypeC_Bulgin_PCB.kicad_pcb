@@ -97,7 +97,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 05ce1968-bece-4bfd-ade8-db196bc5f219)
-    (at 156 83.6)
+    (at 155.8 83.4)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -143,7 +143,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 09fb80d2-b024-4766-bca5-51e910d26f69)
-    (at 152.7 83.6 90)
+    (at 152.7 83.2 90)
     (descr "Through hole straight pin header, 1x02, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x02 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -192,7 +192,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 1cd4cd25-b3d1-4eb2-9ee3-b812e12c968e)
-    (at 149.6 81.4)
+    (at 151.2 81)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -238,7 +238,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 21ca756f-3477-4ce7-b401-446af31305b1)
-    (at 152.9 92.2 90)
+    (at 152.8 91.6 90)
     (descr "Through hole straight pin header, 1x02, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x02 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -287,7 +287,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 28a2cccb-c5e0-45cc-a452-0336e0813126)
-    (at 146.8 83.4)
+    (at 146.2 83.4)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -333,7 +333,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 811381f4-772f-4b0d-8bef-e02e7a34c83e)
-    (at 149.7 92.2 -90)
+    (at 149.7 91.6 -90)
     (descr "Through hole straight pin header, 1x02, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x02 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -382,7 +382,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp 8e73e860-7df5-47ee-9d85-a51cffff4073)
-    (at 159 87.8)
+    (at 158 87.6)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -428,7 +428,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp a4eb21c6-285b-40a9-9401-daa21a94bf6e)
-    (at 155.8 92.4)
+    (at 156 91.4)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -474,7 +474,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp d0583253-7f1c-498c-afba-93bf9b28c781)
-    (at 151.8 81.4)
+    (at 151.2 93.8)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -520,7 +520,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp e6835982-f526-41dd-96a3-dbcd46ab9645)
-    (at 146.4 92.2)
+    (at 146.2 91.4)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -674,7 +674,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp fa7a6ff2-91e8-47a3-8788-97a1388c06f6)
-    (at 149.5 83.4 -90)
+    (at 149.8 83.2 -90)
     (descr "Through hole straight pin header, 1x02, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x02 1.00mm single row")
     (property "Sheetfile" "TypeC_Bulgin_PCB.kicad_sch")
@@ -722,5 +722,8 @@
   )
 
   (gr_rect (start 142.2 79) (end 161.2 95) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 99a3d57e-f690-43c3-9d63-0d6a1a2448f2))
+
+  (via (at 150 86.9) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 3ada0be8-da35-44c8-955a-6120b56b8413))
+  (via (at 152.5 86.9) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp e946a36e-67b2-419a-ac8a-126b54b7a366))
 
 )
