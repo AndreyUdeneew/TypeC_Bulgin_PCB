@@ -734,7 +734,7 @@
     )
   )
 
-  (gr_rect (start 142.2 79) (end 161.2 95) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 99a3d57e-f690-43c3-9d63-0d6a1a2448f2))
+  (gr_circle (center 151.2 87.4) (end 149.4 102.2) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 851f3d61-ba3b-4e6e-abd4-cafa4d9b64cb))
 
   (via (at 150 86.9) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 3ada0be8-da35-44c8-955a-6120b56b8413))
   (via (at 152.5 86.9) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp e946a36e-67b2-419a-ac8a-126b54b7a366))
