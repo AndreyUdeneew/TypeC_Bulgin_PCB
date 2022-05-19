@@ -1072,7 +1072,7 @@
   (symbol (lib_id "power:VBUS") (at 146.05 52.07 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c7252b20-f58d-4e5c-b4d4-e7de6617aa4c)
-    (property "Reference" "#PWR?" (id 0) (at 142.24 52.07 0)
+    (property "Reference" "#PWR0101" (id 0) (at 142.24 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 149.86 52.0699 90)
@@ -1214,7 +1214,7 @@
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
     (path "/c7252b20-f58d-4e5c-b4d4-e7de6617aa4c"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/dc08c175-45e8-4fdb-ab33-cb0a100331d0"
       (reference "J1") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
