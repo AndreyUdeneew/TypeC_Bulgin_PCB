@@ -53,6 +53,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.127,
+          "via_gap": 0.1,
+          "width": 0.112
         }
       ],
       "drc_exclusions": [],
@@ -103,7 +108,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.19999999999999998,
+        "min_clearance": 0.09999999999999999,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.19999999999999998,
@@ -119,7 +124,19 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.112,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.8,
+        1.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0
       ],
       "via_dimensions": [
         {
@@ -364,6 +381,51 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.127,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Diff",
+        "nets": [
+          "GND",
+          "RX1+",
+          "RX1-",
+          "RX2+",
+          "RX2-",
+          "TX1+",
+          "TX1-",
+          "TX2+",
+          "TX2-",
+          "VBUS",
+          "unconnected-(J1-Pad1)",
+          "unconnected-(J3-Pad3)",
+          "unconnected-(J3-Pad8)",
+          "unconnected-(J3-Pad9)",
+          "unconnected-(J4-Pad3)",
+          "unconnected-(J4-Pad8)",
+          "unconnected-(J4-Pad9)",
+          "unconnected-(J6-PadA5)",
+          "unconnected-(J6-PadA6)",
+          "unconnected-(J6-PadA7)",
+          "unconnected-(J6-PadA8)",
+          "unconnected-(J6-PadB5)",
+          "unconnected-(J6-PadB6)",
+          "unconnected-(J6-PadB7)",
+          "unconnected-(J6-PadB8)",
+          "unconnected-(J6-PadS1)"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.112,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
