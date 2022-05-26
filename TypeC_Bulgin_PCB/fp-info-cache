@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 20122616006684139
+=======
+20112700833839116
+>>>>>>> Stashed changes
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52058,6 +52062,7 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+<<<<<<< Updated upstream
 FLIM_laser
 BGA-6_2x3_0.8x1.2mm
 
@@ -52086,6 +52091,8 @@ YFF18PW0J474M
 0
 3
 3
+=======
+>>>>>>> Stashed changes
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -84860,6 +84867,7 @@ igbt diode module
 0
 25
 25
+<<<<<<< Updated upstream
 TypeC_Bulgin_PCB
 ADT_13pin
 Molex Picoflex Ribbon-Cable Connectors, 90325-0014, 14 Pins (http://www.molex.com/pdm_docs/sd/903250004_sd.pdf), generated with kicad-footprint-generator
@@ -84874,6 +84882,8 @@ connector Molex Picoflex side entry
 0
 14
 14
+=======
+>>>>>>> Stashed changes
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
