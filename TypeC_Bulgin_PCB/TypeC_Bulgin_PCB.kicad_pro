@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -127,6 +127,7 @@
         0.0,
         0.112,
         0.2,
+        0.25,
         0.3,
         0.4,
         0.5,
@@ -406,7 +407,6 @@
           "TX2+",
           "TX2-",
           "VBUS",
-          "unconnected-(J1-Pad1)",
           "unconnected-(J3-Pad3)",
           "unconnected-(J3-Pad8)",
           "unconnected-(J3-Pad9)",
@@ -420,8 +420,7 @@
           "unconnected-(J6-PadB5)",
           "unconnected-(J6-PadB6)",
           "unconnected-(J6-PadB7)",
-          "unconnected-(J6-PadB8)",
-          "unconnected-(J6-PadS1)"
+          "unconnected-(J6-PadB8)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
