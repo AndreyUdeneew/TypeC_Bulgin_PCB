@@ -5,7 +5,11 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
+<<<<<<< HEAD
     "CreationDate": "2022-05-27T12:46:42+03:00"
+=======
+    "CreationDate": "2022-05-27T09:12:54+03:00"
+>>>>>>> main
   },
   "GeneralSpecs": {
     "ProjectId": {
