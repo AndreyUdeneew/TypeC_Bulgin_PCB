@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-05-27T15:10:42+03:00"
+    "CreationDate": "2022-06-03T16:11:15+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -42,6 +42,16 @@
       "Path": "TypeC_Bulgin_PCB-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "TypeC_Bulgin_PCB-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "TypeC_Bulgin_PCB-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "TypeC_Bulgin_PCB-Edge_Cuts.gbr",
